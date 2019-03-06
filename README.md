@@ -17,7 +17,7 @@ En esta página simplemente encontramosuna portada del proyecto en el cual podem
 
 <p align="center"> 
 
-<video src="Fotos/1.gif"></video> 
+<img src="Fotos/1.gif">
 
 </p>
 
