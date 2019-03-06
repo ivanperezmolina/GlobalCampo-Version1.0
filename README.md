@@ -1,2 +1,2 @@
 # GlobalCampo
-Ayudamos al agricultor a gestionar su campo
+Ayudamos al agricultor a gestionar su camposss
