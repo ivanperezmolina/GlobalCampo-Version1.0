@@ -2,6 +2,7 @@
 Ayudamos al agricultor a gestionar su campo
 
 ##Idea del CRUD
+
 El objetivo principal de este CRUD es hacer la vida más facil tanto al agricultor como al equipo de gestión de las cooperativas. Ya es hora de dejar de hacer las cosas a papel y pasarnos al mundo dígital
 
 ####?COMENCEMOS?
