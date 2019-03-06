@@ -1,4 +1,4 @@
-# GlobalCampo
+﻿# GlobalCampo
 Ayudamos al agricultor a gestionar su campo
 
 ### Idea del CRUD
@@ -17,7 +17,7 @@ En esta página simplemente encontramosuna portada del proyecto en el cual podem
 
 <p align="center"> 
 
-<img src='Fotos/ezgif.com-video-to-gif.gif'>
+<img src='Fotos/1.gif'>
 
 </p>
 
