@@ -26,6 +26,13 @@ En esta página simplemente encontramos una portada del proyecto en el cual pode
 
 Una vez estamos dentro del panel de control ( _newhtml2.html_ ); podemos observar como tenemos dos perfiles: **Agricultor** y **Gestión**
 
+<p align="center"> 
+
+<img src="Fotos/2.png">
+
+</p>
+
+
 ### Agricultor
 
 Un agricultor es la persona que día a día esta en el cultivo. Quien coje la aceituna, poda los olivos y aplica los tratamientos necesarios. Desde este perfil podemos:
@@ -80,11 +87,7 @@ Un gerente de cooperativa es la persona que esta en la cooperativa a diario. La 
 * Gestionar los fertilizantes
 
 
-<p align="center"> 
 
-<img src="Fotos/2.png">
-
-</p>
 
 
 ## Gestión de los cultivos
