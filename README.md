@@ -15,7 +15,12 @@ Una vez ejecutamos el proyecto _GlobalCampo_ en NetBeans se nos abrirá la pági
 
 En esta página simplemente encontramosuna portada del proyecto en el cual podemos acceder a las redes sociales del desarrollador y tenemos un botón **ENTRAR** el cual nos lleva al panel de control
 
+<p align="center"> 
+
 <img src='Fotos/ezgif.com-video-to-gif.gif'>
+
+</p>
+
 
 ?# Ejercicios de Java de Iván Pérez ????
 
