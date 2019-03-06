@@ -11,6 +11,9 @@ El objetivo principal de este CRUD es hacer la vida más facil tanto al agricult
 
 ## Indice
 
+Una vez ejecutamos el proyecto _GlobalCampo_ en NetBeans se nos abrirá la página _index.html_
+
+En esta página simplemente encontramosuna portada del proyecto en el cual podemos acceder a las redes sociales del desarrollador y tenemos un botón **ENTRAR** el cual nos lleva al panel de control
 
 ?# Ejercicios de Java de Iván Pérez ????
 
