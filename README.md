@@ -17,7 +17,7 @@ En esta página simplemente encontramosuna portada del proyecto en el cual podem
 
 <p align="center"> 
 
-<img src="Fotos/1.pmg">
+<img src="Fotos/1.png">
 
 </p>
 
