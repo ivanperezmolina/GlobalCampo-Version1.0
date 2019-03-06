@@ -125,6 +125,11 @@ _indexFertilizante.jsp -->actualizafertilizante.jsp//nuevofertilizante.jsp//borr
 
 </p>
 
+### Despedida
+Y eso es todo. Espero poder hacer la vida agrícola más facil. 
+
+_Recordatorio: Esto es una BETA; en versiones posteriores se espera mejorar conceptos como hacer un login para cada perfil, mapa para poder ver las fincas, información en los botones... _
+
 
 
 
