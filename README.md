@@ -33,7 +33,7 @@ Una vez estamos dentro del panel de control ( _newhtml2.html_ ); podemos observa
 </p>
 
 
-### Agricultor
+### <p style="color:purple">Agricultor</p>
 
 Un agricultor es la persona que día a día esta en el cultivo. Quien coje la aceituna, poda los olivos y aplica los tratamientos necesarios. Desde este perfil podemos:
 * Gestionar nuestra recolecta de aceitunas
