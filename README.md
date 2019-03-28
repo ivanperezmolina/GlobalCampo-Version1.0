@@ -1,4 +1,4 @@
-﻿# GlobalCampo
+﻿# GlobalCampo Versión 1.0
 Ayudamos al agricultor a gestionar su campo
 
 ### Idea del CRUD
